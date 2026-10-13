@@ -1,0 +1,23 @@
+{
+  "name": "thar-ghee",
+  "version": "1.0.0",
+  "description": "THAR GHEE - Premium ghee brand website with Vercel Web Analytics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psenwar418-bit/Thar-Ghee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psenwar418-bit/Thar-Ghee/issues"
+  },
+  "homepage": "https://github.com/psenwar418-bit/Thar-Ghee#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
